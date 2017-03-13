@@ -1,0 +1,22 @@
+{
+  "name": "gulp-touch",
+  "version": "1.0.0",
+  "description": "Update the access and modification times of each FILE to the current system time.",
+  "license": "MIT",
+  "repository": "ViieeS/gulp-touch",
+  "author": {
+    "name": "ViieeS",
+    "email": "vies@list.ru"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "gulp": "~3.5.5",
+  },
+  "keywords": [
+    "gulp",
+    "gulp-touch"
+  ]
+}
