@@ -13,7 +13,7 @@
     "through2": "^2.0.3"
   },
   "devDependencies": {
-    "gulp": "~3.5.5",
+    "gulp": "~3.5.5"
   },
   "keywords": [
     "gulp",
